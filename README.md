@@ -1,3 +1,4 @@
 # actividadGrupal2
 
-Laureano Berna
+Laureano
+Brian Mermelstein
