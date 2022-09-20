@@ -1,6 +1,6 @@
 # actividadGrupal2
 
-Laureano
+Laureano Berna
 Brian Mermelstein
 Nicolai Millan
 Sebastian Fornillo
